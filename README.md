@@ -25,7 +25,7 @@ You can find more about this project on [my GitHub page](https://github.com/nida
 
 To get started with this project, please follow these steps:
 
-1. Clone the repository: `git clone https://github.com/nidalraed/yourproject.git`
+1. Clone the repository: `git clone https://github.com/nidalraed/my-first-repo.git`
 2. Install the required dependencies: `npm install`
 3. Run the project: `npm start`
 
